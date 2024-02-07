@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
+<p align="center">Languages and Tools used till date:</p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,c,py,java,anaconda,html,css,js,figma,react,mongodb,tailwind,postman,git,github,vscode" />
+    <img src="https://skillicons.dev/icons?i=cpp,c,py,java,anaconda,html,css,js,figma,react,mongodb,nodejs,tailwind,postman,git,github,vscode" />
   </a>
 </p>
 
